@@ -1,7 +1,6 @@
-## Data Engineering ZoomCamp 
-## Notes, Code, & Homework 
+# Data Engineering ZoomCamp Notes, Code, & Homework 
 
-### Overview
+## Overview
 **Data Engineering Zoomcamp** is a free 9-week online crashc ourse in data enginering fundamentals
 
 Visit the course [here](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main).
@@ -9,6 +8,9 @@ Visit the course [here](https://github.com/DataTalksClub/data-engineering-zoomca
 **Start Date**: Febuary 5, 2026 
 **Current Module**: Module 1 
 
-### Modules 
+## Modules 
 
-#### Module 1: Docker & Terraform
+### Module 1: Docker & Terraform
+- [Course Notes](https://github.com/thebbennett/data-engineering-zoomcamp-bb/tree/main/1-docker-terraform/course-notes)
+- [Project](https://github.com/thebbennett/data-engineering-zoomcamp-bb/tree/main/1-docker-terraform/pipeline)
+- [Homework](https://github.com/thebbennett/data-engineering-zoomcamp-bb/blob/main/1-docker-terraform/Homework.MD)  
