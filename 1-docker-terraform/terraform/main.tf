@@ -13,10 +13,6 @@ provider "google" {
   region      = var.region
 }
 
-resource "random_id" "bucket_suffix" {
-  byte_length = 4
-}
-
 
 resource "google_storage_bucket" "terraform-demo-terra-bucket-bb-20260207" {
   name          = var.gcs_bucket_name
